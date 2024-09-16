@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.body-section1 {
+    background-color: #1f2937;
+}
+
+.body-section3 {
+    background-color: #e5e7eb;
+}
+
+.footer {
+    background-color: #1f2937;
+}
