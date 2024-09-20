@@ -1,6 +1,4 @@
-# ToP exercise: Landing page
-
-# Web Page Design Project
+# Web Page Design Project (The Odin Project)
 
 ## Project Overview
 
